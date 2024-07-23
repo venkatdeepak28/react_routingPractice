@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 13%;
+}
+.img-el {
+  height: 30vh;
+}
+.extra {
+  font-size: 70px;
+}
